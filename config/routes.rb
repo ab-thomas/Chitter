@@ -1,4 +1,9 @@
-Chitter::Application.routes.draw do
+ Chitter::Application.routes.draw do
+  get "peeps/index"
+  # Define route ('/') of application to be peeps
+  # (name of controller) and the method 'index'
+  root 'peeps#index'
+
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
