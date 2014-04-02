@@ -1,7 +1,7 @@
 Week 6 Test: Chitter
 ====================
 
-**A twitter copy using ruby o rails, rspec and cucumber**
+**A twitter copy using ruby on rails, rspec and cucumber**
 
 Features:
 
