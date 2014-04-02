@@ -1,7 +1,7 @@
 Week 6 Test: Chitter
 ====================
 
-**A twitter copy using sinatra, rspec and cucumber**
+**A twitter copy using ruby o rails, rspec and cucumber**
 
 Features:
 
